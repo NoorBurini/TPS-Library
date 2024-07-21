@@ -1,0 +1,15 @@
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\bin\Debug\net7.0\BuisnessLogicLayer.deps.json
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\bin\Debug\net7.0\BuisnessLogicLayer.dll
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\bin\Debug\net7.0\BuisnessLogicLayer.pdb
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.AssemblyInfo.cs
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.dll
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\obj\Debug\net7.0\refint\BuisnessLogicLayer.dll
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.pdb
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\obj\Debug\net7.0\ref\BuisnessLogicLayer.dll
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\bin\Debug\net7.0\DataAccessLayer.dll
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\obj\Debug\net7.0\BuisnessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\olabu\Desktop\PresentationLayer\BuisnessLogicLayer\obj\Debug\net7.0\Buisness.081FFF6C.Up2Date

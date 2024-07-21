@@ -1,0 +1,151 @@
+﻿@using BuisnessLogicLayer.ViewModels
+@model LogInViewModel
+
+@{
+    ViewData["title"] = "Login";
+}
+
+   @*  <section class="vh-100 justify-content-center text-center mt-4">
+
+    <div class="container-fluid w-75 bg-body bg-opacity-10 overflow-hidden">
+    <div class="row g-0 align-items-center">
+        <div class="col-7 align-items-stretch p-0">
+                <img src="\Images\image2.jpg" alt="books" class="w-100 h-100 img-fluid" style="object-fit: cover;" />
+        </div>
+      <div class="col-5 py-4">
+        
+            <h2 class="fw-bold mb-2 text-uppercase text-primary">Login</h2>
+            <p class="text-dark-50 mb-5">Please enter your Email and password!</p>
+                    @if (TempData["Error"] != null)
+                    {
+                        <div class="col-md-12 alert alert-danger">
+                            <span><b>Sorry!</b> - @TempData["Error"]</span>
+                        </div>
+                    }
+            <form asp-action="Login" >
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <!-- Email input -->
+                <div class="form-group">
+                    <label asp-for="EmailAddress" class="control-label">Email Address</label>
+                    <input asp-for="EmailAddress" class="form-control">
+                    <span asp-validation-for="EmailAddress" class="text-danger"></span>
+                </div>
+
+                <!-- Password input -->
+                <div class="form-group">
+                    <label asp-for="Password" class="control-label">Password</label>
+                    <input asp-for="Password" class="form-control" />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                               
+                </div>
+
+                <div class="text-center text-lg-start mt-4 pt-2">
+                    <input class="btn btn-outline-primary float right" type="submit" value="Log in" />
+                               
+                                
+                    <p class="small fw-bold mt-2 pt-1 mb-0">
+                        Don't have an account? <a asp-controller="Account" asp-action="Register"
+                                                    class="link-primary">Register</a>
+                    </p>
+                </div>
+            </form>
+
+      </div>
+    </div>
+  </div>
+</section>
+ *@
+<html lang="en" class="light-style layout-wide  customizer-hide" dir="ltr" data-theme="theme-default" data-assets-path="../assets/" data-template="vertical-menu-template-free">
+<head>
+</head>
+
+<body>
+
+
+    <!-- ?PROD Only: Google Tag Manager (noscript) (Default ThemeSelection: GTM-5DDHKGP, PixInvent: GTM-5J3LMKC) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DDHKGP" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- Content -->
+
+    <div class="position-relative">
+        <div class="authentication-wrapper authentication-basic ">
+            <div class="authentication-inner">
+
+                <!-- Login -->
+                <div class="card p-2">
+                   
+                    <div class="card-body">
+                        <h4 class="justify-content-center text-center mb-4">LOGIN</h4>
+                        @if (TempData["Error"] != null)
+                        {
+                            <div class="col-md-12 alert alert-danger">
+                                <span><b>Sorry!</b> - @TempData["Error"] </span>
+                            </div>
+                        }
+
+                        <form id="formAuthentication" class="mb-3" asp-action="Login">
+                            <div class="form-floating form-floating-outline mb-3">
+                                <input type="text" class="form-control" id="EmailAddress" name="EmailAddress" placeholder="Enter your email" autofocus="">
+                                <label for="EmailAddress">Email</label>
+                            </div>
+                            <div class="mb-3">
+                                <div class="form-password-toggle">
+                                    <div class="input-group input-group-merge">
+                                        <div class="form-floating form-floating-outline">
+                                            <input type="Password" id="password" class="form-control" name="Password" placeholder="············" aria-describedby="password">
+                                            <label for="password">Password</label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            @* <div class="mb-3 d-flex justify-content-between">
+                                <a href="auth-forgot-password-basic.html" class="float-end mb-1">
+                                    <span>Forgot Password?</span>
+                                </a>
+                            </div> *@
+                            <div class="mb-3">
+                                <button class="btn btn-primary d-grid w-100 waves-effect waves-light" type="submit">Login</button>
+                            </div>
+                        </form>
+
+                        <p class="text-center">
+                            <span>Don't have an account? </span>
+                            <a asp-controller="Account" asp-action="Register" class="link-primary">
+                                <span>Register</span>
+                            </a>
+                        </p>
+                    </div>
+                </div>
+                <!-- /Login -->
+               @*  <img src="../assets/img/illustrations/tree-3.png" alt="auth-tree" class="authentication-image-object-left d-none d-lg-block">
+                <img src="../assets/img/illustrations/auth-basic-mask-light.png" class="authentication-image d-none d-lg-block" alt="triangle-bg" data-app-light-img="illustrations/auth-basic-mask-light.png" data-app-dark-img="illustrations/auth-basic-mask-dark.png">
+                <img src="../assets/img/illustrations/tree.png" alt="auth-tree" class="authentication-image-object-right d-none d-lg-block">
+            *@ 
+            </div>
+        </div>
+    </div>
+
+  
+
+    <!-- Core JS -->
+    <!-- build:js assets/vendor/js/core.js -->
+    <script src="../assets/vendor/libs/jquery/jquery.js"></script>
+    <script src="../assets/vendor/libs/popper/popper.js"></script>
+    <script src="../assets/vendor/js/bootstrap.js"></script>
+    <script src="../assets/vendor/libs/node-waves/node-waves.js"></script>
+    <script src="../assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+    <script src="../assets/vendor/js/menu.js"></script>
+
+    <!-- endbuild -->
+    <!-- Vendors JS -->
+    <!-- Main JS -->
+    <script src="../assets/js/main.js"></script>
+
+
+
+
+
+
+
+</body>
+</html>

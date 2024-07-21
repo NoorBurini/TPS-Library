@@ -1,0 +1,438 @@
+﻿@using DataAccessLayer.Data
+@using DataAccessLayer.Entities
+@using BuisnessLogicLayer.Services
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<AppUser> UserManager
+@inject IShelfService _shelfService
+@model IEnumerable<Book>
+
+@{
+    var showCategory = ViewBag.showCategory ;
+    ViewBag.ShowSearchBar = true;
+    TempData["Origin"] = "ShowBooks";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<style>
+    .search-icon {
+        cursor: pointer;
+    }
+
+    * {
+        box-sizing: border-box
+    }
+
+    .modal {
+        display: none; /* Hidden by default */
+        position: fixed; /* Stay in place */
+        z-index: 1; /* Sit on top */
+        left: 50%;
+        top: 50%;
+        width: 50%;
+        height: 75%;
+        transform: translate(-50%, -50%);
+        background-color: white;
+        padding-top: 50px;
+        border: 2px solid;
+        overflow: hidden;
+    }
+
+    /* Modal Content/Box */
+    .modal-content {
+        background-color: #fefefe;
+        margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+        border: 1px solid #888;
+        width: 80%;
+    }
+</style>
+</head>
+<body>
+<div class="text-center mt-2" >
+  
+
+    <h1 class="text-primary mb-5 mt-3"> @ViewBag.ShelfName</h1>
+    <div class="row">
+    <div class="col-4 mb-2">
+        <form method="get" asp-action="SearchBook" asp-controller="Book">
+            <input type="hidden" name="shelfId" value="@ViewBag.ShelfId" />
+            <input type="hidden" name="categoryId" value="@ViewBag.CategoryId" />
+            <div class="input-group">
+                <input type="text" name="searchString" id="searchString" class="form-control" placeholder="Search for a book or category" aria-label="Search" required>
+                
+                <span class="input-group-text search-icon" onclick="submitForm()">
+                    <i class="fas fa-search"></i>
+                </span>
+               
+            </div>
+
+        </form>
+        <script>
+            function submitForm() {
+                document.querySelector('form').submit();
+            }
+        </script>
+    </div>
+            <div class="col-8 mb-2">
+    @if (User.Identity.IsAuthenticated && User.IsInRole("admin"))
+    {
+
+        <div class="dt-action-buttons text-end pt-3 pt-md-0">
+            <div class="dt-buttons btn-group flex-wrap">
+                <button class="btn btn-secondary btn-primary waves-effect waves-light mb-2" tabindex="0" onclick="Display()" type="button">
+                    <span>
+                        <span class="d-none d-sm-inline-block ">Add New Book</span>
+                    </span>
+                </button>
+            </div>
+        </div>
+
+        <div id="addBook" class="modal">
+            <div class="row">
+                <div class="col-xl">
+                    <div class="card mb-4">
+                        <div class="card-header d-flex justify-content-between align-items-center">
+                            <h3 class="mb-0 text-primary" style="text-align:center;">Add New Book </h3>
+                        </div>
+                        <div class="card-body">
+                            <form method="post" asp-action="ShowBooks" class="modal-content"> 
+                                <input type="hidden" name="categoryId" value="@ViewBag.CategoryId" />
+
+                                <div class="form-floating form-floating-outline my-4 mx-2">
+                                    <input type="text" class="form-control" name="BookName" id="BookName" placeholder="Please Enter Book Name" required/>
+                                    <label for="BookName">Book Name</label>
+                                </div>
+                               
+                                @if (ViewBag.CategoryList != null)
+                                {
+                                    <div class="form-floating form-floating-outline mb-4 mx-2">
+                                        <select name="CategoryName" for="CategoryName" class="form-control" aria-label="Default select example" required>
+
+                                            <option value="">Select Category </option>
+                                            @foreach (var item in ViewBag.CategoryList)
+                                            {
+                                                <option value="@item">@item</option>
+                                            }
+                                        </select>
+                                        <label for="CategoryName"> Category Name</label>
+                                    </div>
+                                }
+
+
+                                <div class="modal-footer">
+                                    <button id="submitAll" type="submit" class="btn btn-primary data-submit me-sm-4 me-1 waves-effect waves-light">Add</button>
+                                    <button type="button" class="btn btn-outline-secondary waves-effect"><a asp-action="ShowBooks">Cancel</a></button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script>
+            function Display() {
+                document.getElementById('addBook').style.display = 'block';
+            }
+                    </script>
+                }
+                else
+                {
+                    <div class="dt-action-buttons text-end pt-3 pt-md-0">
+                        <div class="btn-group">
+                            <button class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
+                                <span>
+                                    Select Shelf
+                                </span>
+                            </button>
+                            <ul class="dropdown-menu">
+                                @foreach (var shelf in _shelfService.Shelfs)
+                                {
+                                    <li><a class="dropdown-item" asp-controller="Book" asp-action="ShowBooks" asp-route-id="@shelf.Id">@shelf.ShelfName</a></li>
+                                }
+                            </ul>
+                        </div>
+                    </div>
+
+                   
+
+                }
+            </div>
+        </div>
+    
+
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage)) //if there is no books to view after search
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+    else
+    {
+        @*Error and alerts handling (before foreach to show the books)*@
+        @if (!string.IsNullOrEmpty(ViewBag.Exist))
+        {
+
+            <div id="alertContainer" class="alert alert-danger alert-dismissible fade show" role="alert" style="display: none;">
+                <span id="alertMessage"></span>
+                <button type="button" class="btn-close" data-bs-dismiss="alert">
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+
+            <script>
+                var alertMessage = ' @ViewBag.Exist';
+                if (alertMessage) {
+                    document.getElementById('alertMessage').innerText = alertMessage;
+                    document.getElementById('alertContainer').style.display = 'block';
+                }
+            </script>
+
+        }
+
+        @if (!string.IsNullOrEmpty(ViewBag.Added))
+        {
+
+            <div id="alertContainer" class="alert alert-success alert-dismissible fade show" role="alert" style="display: none;">
+                <span id="alertMessage"></span>
+                <button type="button" class="btn-close" data-bs-dismiss="alert">
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+
+            <script>
+                var alertMessage = ' @ViewBag.Added';
+                if (alertMessage) {
+                    document.getElementById('alertMessage').innerText = alertMessage;
+                    document.getElementById('alertContainer').style.display = 'block';
+                }
+            </script>
+
+        }
+        @if (!string.IsNullOrEmpty(ViewBag.Deleted))
+        {
+
+            <div id="alertContainer" class="alert alert-success alert-dismissible fade show" role="alert" style="display: none;">
+                <span id="alertMessage"></span>
+                <button type="button" class="btn-close" data-bs-dismiss="alert">
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+
+            <script>
+                var alertMessage = ' @ViewBag.Deleted';
+                if (alertMessage) {
+                    document.getElementById('alertMessage').innerText = alertMessage;
+                    document.getElementById('alertContainer').style.display = 'block';
+                }
+            </script>
+
+        }
+        @if (!string.IsNullOrEmpty(ViewBag.Delete))
+        {
+
+            <div id="alertContainer" class="alert alert-danger alert-dismissible fade show" role="alert" style="display: none;">
+                <span id="alertMessage"></span>
+                <form method="post" asp-action="DeleteBook">
+                    <button type="submit" class="btn btn-danger data-submit">Delete</button>
+                    <a class="btn btn-outline-secondary" asp-action="ShowBooks" asp-route-id="@ViewBag.ShelfId">Cancel</a>
+                </form>
+                <button type="button" class="btn-close" data-bs-dismiss="alert">
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+
+            <script>
+                var alertMessage = ' @ViewBag.Delete';
+                if (alertMessage) {
+                    document.getElementById('alertMessage').innerText = alertMessage;
+                    document.getElementById('alertContainer').style.display = 'block';
+                }
+            </script>
+
+        }
+        @if (!string.IsNullOrEmpty(ViewBag.rated))
+        {
+
+            <div id="alertContainer" class="alert alert-danger alert-dismissible fade show" role="alert" style="display: none;">
+                <span id="alertMessage"></span>
+                <button type="button" class="btn-close" data-bs-dismiss="alert">
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+
+            <script>
+                var alertMessage = ' @ViewBag.rated';
+                if (alertMessage) {
+                    document.getElementById('alertMessage').innerText = alertMessage;
+                    document.getElementById('alertContainer').style.display = 'block';
+                }
+            </script>
+
+        }
+        @if (!string.IsNullOrEmpty(ViewBag.addedRating))
+        {
+
+            <div id="alertContainer" class="alert alert-success alert-dismissible fade show" role="alert" style="display: none;">
+                <span id="alertMessage"></span>
+                <button type="button" class="btn-close" data-bs-dismiss="alert">
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+
+            <script>
+                var alertMessage = ' @ViewBag.addedRating';
+                if (alertMessage) {
+                    document.getElementById('alertMessage').innerText = alertMessage;
+                    document.getElementById('alertContainer').style.display = 'block';
+                }
+            </script>
+
+        }
+        @if (!string.IsNullOrEmpty(ViewBag.uploaded))
+        {
+
+            <div id="alertContainer" class="alert alert-success alert-dismissible fade show" role="alert" style="display: none;">
+                <span id="alertMessage"></span>
+                <button type="button" class="btn-close" data-bs-dismiss="alert">
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+
+            <script>
+                var alertMessage = ' @ViewBag.uploaded';
+                if (alertMessage) {
+                    document.getElementById('alertMessage').innerText = alertMessage;
+                    document.getElementById('alertContainer').style.display = 'block';
+                }
+            </script>
+
+        }
+        @if (!string.IsNullOrEmpty(ViewBag.BookNotUploaded))
+        {
+
+            <div id="alertContainer" class="alert alert-danger alert-dismissible fade show" role="alert" style="display: none;">
+                <span id="alertMessage"></span>
+                <button type="button" class="btn-close" data-bs-dismiss="alert">
+                    <span aria-hidden="true"></span>
+                </button>
+            </div>
+
+            <script>
+                var alertMessage = ' @ViewBag.BookNotUploaded';
+                if (alertMessage) {
+                    document.getElementById('alertMessage').innerText = alertMessage;
+                    document.getElementById('alertContainer').style.display = 'block';
+                }
+            </script>
+
+        }
+
+       
+        <div class="album py-5 bg-body-tertiary">
+                <div class="container">
+                    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3"> @* different # of columns will be displayed based on the screen size *@
+                    @foreach (var b in Model)
+                    {
+                        //the code to show the books starts here after all errors and alert handling
+                        <div class="col">
+                            <div class="card shadow-sm">
+                                <div class="border border-dark bd-placeholder-img card-img-top bg-black bg-opacity-10" style="width:100%; height:400px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+                                    @{
+                                        var imageFileName = ViewBag.ImageFileNamesDictionary.ContainsKey(b.Id)
+                                        ? ViewBag.ImageFileNamesDictionary[b.Id]
+                                        : null;
+                                    }
+                                    @if (!string.IsNullOrEmpty(imageFileName))
+                                    {
+                                        <img class="bd-placeholder-img card-img-top" src="~/images/@b.Id/@imageFileName" alt="Book Image" style="width:100%; height:100%; object-fit: cover;" />
+                                    }
+                                    else
+                                    {
+                                        <p class="m-5">No image found for this book</p>
+                                    }
+                                     </div>
+                                
+                                <div class="card-body">
+                                   
+                                    <p class="fs-4">@b.BookName</p>
+                                    <p class="fs-6">
+                                        @foreach (var x in showCategory)
+                                        {
+                                            if (b.CategoryId == x.CategoryId)
+                                            {
+                                                @x.CategoryName
+                                                break;
+                                            }
+                                        }
+                                    </p>
+                                    
+                                    @if (User.Identity.IsAuthenticated && User.IsInRole("admin"))
+                                    {
+                                        <div class="btn-group">
+                                            <a asp-controller="Book" asp-action="EditBook" asp-route-bookId="@b.Id"
+                                                   class="me-2" type="submit" title="Edit" data-toggle="tooltip"><i class="fas fa-edit"></i></a>
+                                                <a asp-controller="Book" asp-action="ViewBook" asp-route-bookId="@b.Id"
+                                                   class="me-2" type="submit" title="View" data-toggle="tooltip"><i class="fas fa-eye"></i></a>
+                                            <a asp-controller="Book" asp-action="UploadPDF" asp-route-bookId="@b.Id" asp-route-shelfId="@b.ShelfId"
+                                                   class="me-2" type="submit" title="Upload PDF" data-toggle="tooltip"><i class="fas fa-upload"></i></a>
+                                            
+                                            <a asp-controller="Book" asp-action="DeleteBook" asp-route-bookId="@b.Id"
+                                                   class="me-2" type="submit" title="Delete" data-toggle="tooltip"> <i class="fas fa-trash-alt"></i></a>
+                                            <a asp-controller="Book" asp-action="UploadImage" asp-route-bookId="@b.Id" asp-route-shelfId="@b.ShelfId"
+                                                   class="me-2" type="submit" title="Upload Image" data-toggle="tooltip"><i class="fas fa-image"></i></a>
+
+                                        </div>
+                                        <script>
+                                            $(function () {
+                                                $('[data-toggle="tooltip"]').tooltip();
+                                            });
+                                        </script>
+                                    }
+                                    else
+                                    {
+                                        <small class="text-primary" style="float:right">@b.RatingValue stars</small>
+                                        <br />
+                                        <div class="d-flex  justify-content-between">
+                                            <div class="btn-group">
+                                                <a asp-controller="Book" asp-action="ViewBook" asp-route-bookId="@b.Id"
+                                                       class="me-2" type="submit" title="View" data-toggle="tooltip"><i class="fas fa-eye"></i></a>
+
+                                                <a asp-controller="Book" asp-action="DownloadBook" asp-route-bookId="@b.Id"
+                                                       class="me-2" type="submit" title="Download" data-toggle="tooltip"><i class="fas fa-download"></i></a>
+
+                                            </div>
+                                            <form method="post" asp-action="AddRate" asp-route-bookId="@b.Id" asp-route-shelfId="@ViewBag.ShelfId" asp-route-userId="@UserManager.GetUserId(User)">
+                                                <div class="input-group">
+                                                        <select name="ratingValue" class="form-control  text-primary" required>
+                                                        <option value="">Rate</option>
+                                                        <option value="1">1</option>
+                                                        <option value="2">2</option>
+                                                        <option value="3">3</option>
+                                                        <option value="4">4</option>
+                                                        <option value="5">5</option>
+                                                    </select>
+                                                        <button class="btn btn-outline-primary" type="submit">
+                                                        <i class="fas fa-star"></i> <!-- Font Awesome plus icon -->
+                                                    </button>
+                                                </div>
+                                            </form>
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        </div>   
+                    }
+                </div>
+            </div>
+        </div>
+    }
+
+    
+
+    
+</div>
+</body>
+</html>

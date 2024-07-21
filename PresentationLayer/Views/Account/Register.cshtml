@@ -1,0 +1,157 @@
+﻿@using BuisnessLogicLayer.ViewModels
+@model RegisterViewModel
+
+@{
+    ViewData["Title"] = "Signup";
+}
+
+<html lang="en" class="light-style layout-wide  customizer-hide" dir="ltr" data-theme="theme-default" data-assets-path="../assets/" data-template="vertical-menu-template-free">
+<head>
+</head>
+
+<body>
+
+
+    <!-- ?PROD Only: Google Tag Manager (noscript) (Default ThemeSelection: GTM-5DDHKGP, PixInvent: GTM-5J3LMKC) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5DDHKGP" height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- Content -->
+
+    <div class="position-relative">
+        <div class="authentication-wrapper authentication-basic ">
+            <div class="authentication-inner">
+
+              
+                <div class="card p-2">
+                    <div class="card p-2">
+                
+                        <div class="card-body mt-2">
+                            <h4 class="justify-content-center text-center mb-4">Sign up</h4>
+                       
+                            @if (TempData["Error"] != null)
+                            {
+                                <div class="col-md-12 alert alert-danger">
+                                    <span><b>Sorry!</b> - @TempData["Error"] </span>
+                                </div>
+                            }
+
+
+                            <form id="formAuthentication" class="mb-3" asp-action="Register">
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                                <div class="form-floating form-floating-outline mb-3">
+                                    <input type="email" class="form-control" id="EmailAddress" name="EmailAddress" placeholder="Enter your Email" autofocus>
+                                    <label for="EmailAddress">EmailAddress</label>
+                                </div>
+                           
+                                <div class="form-floating form-floating-outline mb-3">
+                                    <input type="password" id="Password" class="form-control" name="Password" placeholder="&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;" aria-describedby="Password" />
+                                    <label for="Password">Password</label>
+                                </div>
+                                   
+
+                                <div class="form-floating form-floating-outline mb-3">
+                                    <input asp-for="ConfirmPassword" type="password" id="ConfirmPassword" class="form-control" placeholder="&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;&#xb7;" aria-describedby="Password" />
+                                    <label asp-for="ConfirmPassword">ConfirmPassword</label>
+
+                                    <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                                </div>
+
+                               
+                               
+                                <button class="btn btn-primary d-grid w-100">
+                                    Sign up
+                                </button>
+                            </form>
+
+                            <p class="text-center">
+                                <span>Already have an account?</span>
+                                <a asp-controller="Home" asp-action="Login">
+                                    <span>Login instead</span>
+                                </a>
+                            </p>
+                        </div>
+                    </div>
+              
+                </div>
+        </div>
+    </div>
+
+
+
+    <!-- Core JS -->
+    <!-- build:js assets/vendor/js/core.js -->
+    <script src="../assets/vendor/libs/jquery/jquery.js"></script>
+    <script src="../assets/vendor/libs/popper/popper.js"></script>
+    <script src="../assets/vendor/js/bootstrap.js"></script>
+    <script src="../assets/vendor/libs/node-waves/node-waves.js"></script>
+    <script src="../assets/vendor/libs/perfect-scrollbar/perfect-scrollbar.js"></script>
+    <script src="../assets/vendor/js/menu.js"></script>
+
+    <!-- endbuild -->
+    <!-- Vendors JS -->
+    <!-- Main JS -->
+    <script src="../assets/js/main.js"></script>
+
+
+
+
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+@* 
+
+<div class="row bg-body bg-opacity-10 border border-dark">
+    <div class="col-md-6 p-0">
+        <img src="\Images\register.jpg" alt="books" class="w-100 h-100 img-fluid" style="object-fit: cover;" />
+    </div>
+    <div class="col-md-6 my-5">
+        <p>
+            <h4 class="text-primary">Sign up for a new account</h4>
+        </p>
+
+        @if (TempData["Error"] != null)
+        {
+            <div class="col-md-12 alert alert-danger">
+                <span><b>Sorry!</b> - @TempData["Error"] </span>
+            </div>
+        }
+
+        <div class="row">
+            <div class="col-md-10 mx-5">
+                <form asp-action="Register">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-group">
+                        <label asp-for="EmailAddress" class="control-label"></label>
+                        <input asp-for="EmailAddress" class="form-control" />
+                        <span asp-validation-for="EmailAddress" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Password" class="control-label"></label>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="ConfirmPassword" class="control-label"></label>
+                        <input asp-for="ConfirmPassword" class="form-control" />
+                        <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                    </div>
+                    <br />
+                    <div class="form-group">
+                        <input class="btn btn-outline-primary float-right" type="submit" value="Sign up" />
+                        <a class="btn btn-outline-secondary" asp-controller="Home" asp-action="Login">Cancel</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div> *@

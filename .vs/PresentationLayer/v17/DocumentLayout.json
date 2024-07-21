@@ -1,0 +1,728 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\views\\book\\showbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\book\\showbooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\views\\book\\showbooksincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\book\\showbooksincategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\views\\book\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\book\\editbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\views\\shelf\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\shelf\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\views\\book\\uploadimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\book\\uploadimage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\category\\editcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\views\\shelf\\editshelf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\shelf\\editshelf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\buisnesslogiclayer\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|solutionrelative:buisnesslogiclayer\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\buisnesslogiclayer\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|solutionrelative:buisnesslogiclayer\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\wwwroot\\images\\library_background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\wwwroot\\images\\library_background.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\migrations\\20240423112116_identity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20240423112116_identity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\migrations\\20240422132530_identity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20240422132530_identity.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\migrations\\20240422132530_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\migrations\\20240422132530_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\entities\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\buisnesslogiclayer\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|solutionrelative:buisnesslogiclayer\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\repositories\\ishelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\ishelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\buisnesslogiclayer\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|solutionrelative:buisnesslogiclayer\\services\\ratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\buisnesslogiclayer\\services\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|solutionrelative:buisnesslogiclayer\\services\\shelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\repositories\\shelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\shelfrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\buisnesslogiclayer\\viewmodels\\editcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|solutionrelative:buisnesslogiclayer\\viewmodels\\editcategoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\buisnesslogiclayer\\services\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|solutionrelative:buisnesslogiclayer\\services\\iratingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\buisnesslogiclayer\\services\\ishelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|solutionrelative:buisnesslogiclayer\\services\\ishelfservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\buisnesslogiclayer\\viewmodels\\editbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|solutionrelative:buisnesslogiclayer\\viewmodels\\editbookviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\data\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\dataaccesslayer\\entities\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98BCBB60-71F7-45CC-90A3-2CFC2A188988}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\entities\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Migrations\\20240428071541_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\Migrations\\20240428071541_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\buisnesslogiclayer\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A841E4AB-0818-4262-99E0-8C63330157B4}|BuisnessLogicLayer\\BuisnessLogicLayer.csproj|solutionrelative:buisnesslogiclayer\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\olabu\\desktop\\presentationlayer\\presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1611A7C9-4ADF-4F0B-A785-BA490CDC924F}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 126,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShowBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Book\\ShowBooks.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Book\\ShowBooks.cshtml",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Book\\ShowBooks.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Book\\ShowBooks.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T22:17:37.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Home\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Home\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Home\\Welcome.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Home\\Welcome.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAFYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T21:13:51.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAGoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T21:41:16.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Book\\EditBook.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Book\\EditBook.cshtml",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Book\\EditBook.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Book\\EditBook.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAcwG0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T19:01:21.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Shelf\\Index.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Shelf\\Index.cshtml",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Shelf\\Index.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Shelf\\Index.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T21:40:56.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowBooksInCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Book\\ShowBooksInCategory.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Book\\ShowBooksInCategory.cshtml",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Book\\ShowBooksInCategory.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Book\\ShowBooksInCategory.cshtml",
+              "ViewState": "AQIAAIEBAAAAAAAAAAAAAI0BAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T09:40:50.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Controllers\\BookController.cs",
+              "RelativeToolTip": "PresentationLayer\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAYBAAAAAAAAAAAwwBkBAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:56:22.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwIIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T21:43:30.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UploadImage.cshtml",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Book\\UploadImage.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Book\\UploadImage.cshtml",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Book\\UploadImage.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Book\\UploadImage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T11:45:52.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Category\\EditCategory.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Category\\EditCategory.cshtml",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Category\\EditCategory.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Category\\EditCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T21:15:07.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditShelf.cshtml",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Shelf\\EditShelf.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Shelf\\EditShelf.cshtml",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Shelf\\EditShelf.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Shelf\\EditShelf.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T11:12:21.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "PresentationLayer\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAFsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:34:48.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BuisnessLogicLayer\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\BookService.cs",
+              "RelativeToolTip": "BuisnessLogicLayer\\Services\\BookService.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:56:58.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "PresentationLayer\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:08:56.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IBookRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:25:56.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BuisnessLogicLayer\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BuisnessLogicLayer\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:25:21.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240422132530_identity.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Migrations\\20240422132530_identity.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20240422132530_identity.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Migrations\\20240422132530_identity.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20240422132530_identity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:18:39.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:19:08.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "library_background.jpg - Bitmap [563x218, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\library_background.jpg",
+              "RelativeDocumentMoniker": "PresentationLayer\\wwwroot\\Images\\library_background.jpg",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\library_background.jpg - Bitmap [563x218, 24 bit, JPG]",
+              "RelativeToolTip": "PresentationLayer\\wwwroot\\Images\\library_background.jpg - Bitmap [563x218, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-03T09:06:18.838Z",
+              "EditorCaption": " - Bitmap [563x218, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240422132530_identity.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Migrations\\20240422132530_identity.Designer.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20240422132530_identity.Designer.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Migrations\\20240422132530_identity.Designer.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20240422132530_identity.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:18:43.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240423112116_identity2.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Migrations\\20240423112116_identity2.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20240423112116_identity2.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Migrations\\20240423112116_identity2.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20240423112116_identity2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:18:48.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Entities\\AppUser.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:18:08.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T11:56:49.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PresentationLayer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PresentationLayer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-24T11:28:25.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Shelf.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Entities\\Shelf.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Shelf.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Entities\\Shelf.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Shelf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:48:44.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Entities\\Book.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T11:24:20.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "BuisnessLogicLayer\\Services\\IBookService.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\IBookService.cs",
+              "RelativeToolTip": "BuisnessLogicLayer\\Services\\IBookService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T06:57:02.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ShelfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Repositories\\ShelfRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\ShelfRepository.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Repositories\\ShelfRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\ShelfRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:57:15.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IShelfRepository.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Repositories\\IShelfRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\IShelfRepository.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Repositories\\IShelfRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\IShelfRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T21:51:14.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\ShelfService.cs",
+              "RelativeDocumentMoniker": "BuisnessLogicLayer\\Services\\ShelfService.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\ShelfService.cs",
+              "RelativeToolTip": "BuisnessLogicLayer\\Services\\ShelfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:51:44.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RatingService.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\RatingService.cs",
+              "RelativeDocumentMoniker": "BuisnessLogicLayer\\Services\\RatingService.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\RatingService.cs",
+              "RelativeToolTip": "BuisnessLogicLayer\\Services\\RatingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:17:53.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:55:22.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "PresentationLayer\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:06:30.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EditCategoryViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\ViewModels\\EditCategoryViewModel.cs",
+              "RelativeDocumentMoniker": "BuisnessLogicLayer\\ViewModels\\EditCategoryViewModel.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\ViewModels\\EditCategoryViewModel.cs",
+              "RelativeToolTip": "BuisnessLogicLayer\\ViewModels\\EditCategoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:45:16.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRatingService.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\IRatingService.cs",
+              "RelativeDocumentMoniker": "BuisnessLogicLayer\\Services\\IRatingService.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\IRatingService.cs",
+              "RelativeToolTip": "BuisnessLogicLayer\\Services\\IRatingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T08:18:17.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\Rating.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Entities\\Rating.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\Rating.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T07:12:16.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EditBookViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\ViewModels\\EditBookViewModel.cs",
+              "RelativeDocumentMoniker": "BuisnessLogicLayer\\ViewModels\\EditBookViewModel.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\ViewModels\\EditBookViewModel.cs",
+              "RelativeToolTip": "BuisnessLogicLayer\\ViewModels\\EditBookViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T11:15:09.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IShelfService.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\IShelfService.cs",
+              "RelativeDocumentMoniker": "BuisnessLogicLayer\\Services\\IShelfService.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\Services\\IShelfService.cs",
+              "RelativeToolTip": "BuisnessLogicLayer\\Services\\IShelfService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:51:59.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Data\\UserRoles.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Data\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Data\\UserRoles.cs",
+              "RelativeToolTip": "DataAccessLayer\\Data\\UserRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:25:06.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Entities\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Entities\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Entities\\ErrorViewModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\Entities\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T07:47:57.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240428071541_new.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Migrations\\20240428071541_new.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Migrations\\20240428071541_new.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\DataAccessLayer\\Migrations\\20240428071541_new.cs",
+              "RelativeToolTip": "DataAccessLayer\\Migrations\\20240428071541_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T07:15:41.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LogInViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\ViewModels\\LogInViewModel.cs",
+              "RelativeDocumentMoniker": "BuisnessLogicLayer\\ViewModels\\LogInViewModel.cs",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\BuisnessLogicLayer\\ViewModels\\LogInViewModel.cs",
+              "RelativeToolTip": "BuisnessLogicLayer\\ViewModels\\LogInViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T11:30:36.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "PresentationLayer\\appsettings.json",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\appsettings.json",
+              "RelativeToolTip": "PresentationLayer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T22:33:32.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PresentationLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeDocumentMoniker": "PresentationLayer\\PresentationLayer.csproj",
+              "ToolTip": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\PresentationLayer.csproj",
+              "RelativeToolTip": "PresentationLayer\\PresentationLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T22:14:53.597Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h2 class="text-primary m-3">Upload a PDF Book</h2>
+
+<div class="col-4">
+   
+
+    <form asp-controller="Book" asp-action="UploadPDF" method="post" enctype="multipart/form-data" asp-route-bookId="@ViewBag.bookId" asp-route-shelfId="@ViewBag.shelfId">
+        
+
+        <div class="mb-3">
+            <label for="file" class="form-label">Select PDF file:</label>
+            <input class="form-control" name="file" type="file" id="file">
+        </div>
+        <br />
+
+        @Html.Hidden("origin", (string)ViewBag.origin)
+
+        <button type="submit" class="btn btn-primary data-submit">Upload PDF</button>
+     
+
+        @if (ViewBag.origin == "ShowBooks")
+        {
+            <a class="btn btn-outline-secondary" asp-action="ShowBooks" asp-route-id="@ViewBag.shelfId">Cancel</a>
+        }
+        else if (ViewBag.origin == "ShowBooksInCategory")
+        {
+            <a class="btn btn-outline-secondary" asp-action="ShowBooksInCategory" asp-route-id="@ViewBag.categoryId">Cancel</a>
+        }
+       
+
+     
+
+    </form>
+</div>
+
+
+
+<div class="mt-2">
+    @if (!string.IsNullOrEmpty(ViewBag.InvalidFile))
+    {
+
+        <div id="alertContainer" class="alert alert-danger alert-dismissible fade show" role="alert" style="display: none;">
+            <span id="alertMessage"></span>
+            <button type="button" class="btn-close" data-bs-dismiss="alert">
+                <span aria-hidden="true"></span>
+            </button>
+        </div>
+        @section Scripts {
+        <script>
+            // Check if alert message exists
+            var alertMessage = ' @ViewBag.InvalidFile';
+            if (alertMessage) {
+                // Set alert message text
+                document.getElementById('alertMessage').innerText = alertMessage;
+                // Show alert
+                document.getElementById('alertContainer').style.display = 'block';
+            }
+        </script>
+        }
+    }
+   
+</div>

@@ -1,0 +1,124 @@
+﻿@using BuisnessLogicLayer.ViewModels
+@model EditBookViewModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+
+@{
+}
+
+<h2 class="text-primary m-3">Edit Book</h2>
+<div class="col-4">
+    <form method="post" asp-action="EditBook">
+        <input type="hidden" name="bookId" id="bookId" value="@ViewBag.bookId" />
+        <div class="form-group">
+            <label asp-for="BookName" class="form-label col-form-label-md">Book Name</label>
+            <input asp-for="BookName" class="form-control">
+        </div>
+        <br />
+        @if (ViewBag.ShelfList != null)
+        {
+            <div class="form-group">
+                <label asp-for="ShelfName" class="form-label col-form-label-md">Shelf Name</label>
+                <select name="ShelfName" asp-for="ShelfName" class="form-control">
+                    <option value="">Select Shelf</option>
+                    @foreach (var item in ViewBag.ShelfList)
+                    {
+                        <option value="@item">@item</option>
+                    }
+                </select>
+            </div>
+        }
+       
+        <br />
+        @if (ViewBag.CategoryList != null)
+        {
+            <div class="form-group">
+                <label asp-for="CategoryName" class="form-label col-form-label-md">Category Name</label>
+                <select name="CategoryName" asp-for="CategoryName" class="form-control">
+                    <option value="">Select Category </option>
+                    @foreach (var item in ViewBag.CategoryList)
+                    {
+                        <option value="@item">@item</option>
+                    }
+                </select>
+            </div>
+        }
+       
+        <br />
+        @Html.Hidden("origin", (string)ViewBag.origin)
+        <button type="submit" class="btn btn-primary data-submit">Save Changes</button>
+       
+
+        @if (ViewBag.origin == "ShowBooks")
+        {
+            <a class="btn btn-outline-secondary" asp-action="ShowBooks" asp-route-id="@ViewBag.shelfId">Cancel</a>
+        }
+        else if (ViewBag.origin == "ShowBooksInCategory")
+        {
+            <a class="btn btn-outline-secondary" asp-action="ShowBooksInCategory" asp-route-id="@ViewBag.categoryId">Cancel</a>
+        }
+        else
+        {
+            <a class="btn btn-outline-secondary" asp-controller="Shelf" asp-action="Index" >Cancel</a>
+
+        }
+
+    </form>
+</div>
+
+<div class="mt-2">
+    @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewBag.ErrorMessage
+        </div>
+    }
+</div>
+<div class="mt-2">
+    @if (!string.IsNullOrEmpty(ViewBag.Exist))
+    {
+
+        <div id="alertContainer" class="alert alert-danger alert-dismissible fade show" role="alert" style="display: none;">
+            <span id="alertMessage"></span>
+            <button type="button" class="btn-close" data-bs-dismiss="alert">
+                <span aria-hidden="true"></span>
+            </button>
+        </div>
+        @section Scripts {
+        <script>
+            // Check if alert message exists
+            var alertMessage = ' @ViewBag.Exist';
+            if (alertMessage) {
+                // Set alert message text
+                document.getElementById('alertMessage').innerText = alertMessage;
+                // Show alert
+                document.getElementById('alertContainer').style.display = 'block';
+            }
+        </script>
+        }
+    }
+    @if (!string.IsNullOrEmpty(ViewBag.ExistCategory))
+    {
+
+        <div id="alertContainer" class="alert alert-danger alert-dismissible fade show" role="alert" style="display: none;">
+            <span id="alertMessage"></span>
+            <button type="button" class="btn-close" data-bs-dismiss="alert">
+                <span aria-hidden="true"></span>
+            </button>
+        </div>
+        @section Scripts {
+        <script>
+            // Check if alert message exists
+            var alertMessage = ' @ViewBag.ExistCategory';
+            if (alertMessage) {
+                // Set alert message text
+                document.getElementById('alertMessage').innerText = alertMessage;
+                // Show alert
+                document.getElementById('alertContainer').style.display = 'block';
+            }
+        </script>
+        }
+    }
+</div>

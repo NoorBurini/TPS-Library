@@ -1,0 +1,1025 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PresentationLayer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PresentationLayer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\0\\ca610383-b163-4362-b6b7-779fa433c39a_TPS Training.pdf",
+      "PackagePath": "staticwebassets\\Books\\0\\ca610383-b163-4362-b6b7-779fa433c39a_TPS Training.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\100\\b908d0e5-009f-4568-8a1d-fcd8fda15c7b_ch3.pdf",
+      "PackagePath": "staticwebassets\\Books\\100\\b908d0e5-009f-4568-8a1d-fcd8fda15c7b_ch3.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\101\\fc992e25-4a42-4827-8151-3858b51a86f9_46a13801-d478-4123-8a3c-dbbd88a72259_Chapter 05 Analog Transmission.pdf",
+      "PackagePath": "staticwebassets\\Books\\101\\fc992e25-4a42-4827-8151-3858b51a86f9_46a13801-d478-4123-8a3c-dbbd88a72259_Chapter 05 Analog Transmission.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\102\\f2f85510-649f-485a-88c7-9289b2cc52ce_C++ Chapter 1.pdf",
+      "PackagePath": "staticwebassets\\Books\\102\\f2f85510-649f-485a-88c7-9289b2cc52ce_C++ Chapter 1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\114\\1a156111-37c7-4eee-9e33-27b5ce0c596b_Chapter 2 - lecture 1.pdf",
+      "PackagePath": "staticwebassets\\Books\\114\\1a156111-37c7-4eee-9e33-27b5ce0c596b_Chapter 2 - lecture 1.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\115\\bee200dc-91e4-45a7-a20b-ed5423a52912_Chapter 2 motion in one dimension.pdf",
+      "PackagePath": "staticwebassets\\Books\\115\\bee200dc-91e4-45a7-a20b-ed5423a52912_Chapter 2 motion in one dimension.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\130\\1fb14e6c-9f32-4eca-a17a-c11657a3e882_Chapter 03 Data and Signals.pdf",
+      "PackagePath": "staticwebassets\\Books\\130\\1fb14e6c-9f32-4eca-a17a-c11657a3e882_Chapter 03 Data and Signals.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\142\\4ae484cf-1cbb-44da-8c10-c936efe07978_Chapter 2 (1-12) - Solution.pdf",
+      "PackagePath": "staticwebassets\\Books\\142\\4ae484cf-1cbb-44da-8c10-c936efe07978_Chapter 2 (1-12) - Solution.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\143\\1ce76833-8106-47ff-b390-aef235b5f729_DIGITALLOGICDESIGN-DigitalDesign5thEdition-DigitalDesign_5thEdition_(M.MorrisManoandMichaelCiletti).pdf",
+      "PackagePath": "staticwebassets\\Books\\143\\1ce76833-8106-47ff-b390-aef235b5f729_DIGITALLOGICDESIGN-DigitalDesign5thEdition-DigitalDesign_5thEdition_(M.MorrisManoandMichaelCiletti).pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\144\\25800fc1-f9ab-40eb-8617-2dbc68478572_Data Structures Using C  , 2nd Edition.pdf",
+      "PackagePath": "staticwebassets\\Books\\144\\25800fc1-f9ab-40eb-8617-2dbc68478572_Data Structures Using C  , 2nd Edition.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\145\\509bde48-b396-41dd-aab4-58ff17dbfd31_(manual)Computer Organization and Design Solutions Ch. 1-5 by David A. Patterson, John L. Hennessy (z-lib.org).pdf",
+      "PackagePath": "staticwebassets\\Books\\145\\509bde48-b396-41dd-aab4-58ff17dbfd31_(manual)Computer Organization and Design Solutions Ch. 1-5 by David A. Patterson, John L. Hennessy (z-lib.org).pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\147\\66add3e6-28ee-419d-911b-1afda0b16201_Chapter 1 - Application Layer.pdf",
+      "PackagePath": "staticwebassets\\Books\\147\\66add3e6-28ee-419d-911b-1afda0b16201_Chapter 1 - Application Layer.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\148\\e64fdead-cee3-46e4-9179-a4726c50e8f3_LN _Ch_7_2nd_Ed.pdf",
+      "PackagePath": "staticwebassets\\Books\\148\\e64fdead-cee3-46e4-9179-a4726c50e8f3_LN _Ch_7_2nd_Ed.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\149\\70459f46-5755-442d-8da7-15f9126bd752_2_2_process.pdf",
+      "PackagePath": "staticwebassets\\Books\\149\\70459f46-5755-442d-8da7-15f9126bd752_2_2_process.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\150\\5832c0f6-cdcc-4ae5-aee3-35bb000f02b5_Chapter 2_ Struct.pdf",
+      "PackagePath": "staticwebassets\\Books\\150\\5832c0f6-cdcc-4ae5-aee3-35bb000f02b5_Chapter 2_ Struct.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\151\\c39cf581-282b-413c-a7c6-e958fc2dc332_Lab 3- Power Supplies .pdf",
+      "PackagePath": "staticwebassets\\Books\\151\\c39cf581-282b-413c-a7c6-e958fc2dc332_Lab 3- Power Supplies .pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\152\\031b6d7a-c859-45bb-baec-4ca6a6897645_Ch_04.pdf",
+      "PackagePath": "staticwebassets\\Books\\152\\031b6d7a-c859-45bb-baec-4ca6a6897645_Ch_04.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\87\\6dbc902c-e0b1-47b5-a1b5-878101a1770f_Experiment _1 Measurements and Errors.pdf",
+      "PackagePath": "staticwebassets\\Books\\87\\6dbc902c-e0b1-47b5-a1b5-878101a1770f_Experiment _1 Measurements and Errors.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\88\\de53b8c2-5531-4193-9891-48002b906600_Experiment _2 Projectile motion.pdf",
+      "PackagePath": "staticwebassets\\Books\\88\\de53b8c2-5531-4193-9891-48002b906600_Experiment _2 Projectile motion.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\89\\4c12187a-5f69-4285-bc06-d15ccdd179b8_Experiment _5 rotational dynamics.pdf",
+      "PackagePath": "staticwebassets\\Books\\89\\4c12187a-5f69-4285-bc06-d15ccdd179b8_Experiment _5 rotational dynamics.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\93\\cbaa5637-c4cc-40a6-a5a0-b1ae9510ccc8_1 The Big O Notation.pdf",
+      "PackagePath": "staticwebassets\\Books\\93\\cbaa5637-c4cc-40a6-a5a0-b1ae9510ccc8_1 The Big O Notation.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\94\\0da690c1-8bd2-4ca0-8df6-0bb47b7a364e_تشابتر 2 - الجزء الأول.pdf",
+      "PackagePath": "staticwebassets\\Books\\94\\0da690c1-8bd2-4ca0-8df6-0bb47b7a364e_تشابتر 2 - الجزء الأول.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\95\\3f5eefd2-3b67-4364-bb5e-72176a4b05df_CH4_Point_Processing_A.pdf",
+      "PackagePath": "staticwebassets\\Books\\95\\3f5eefd2-3b67-4364-bb5e-72176a4b05df_CH4_Point_Processing_A.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\96\\26eb4f92-2a37-40c9-9b71-c3648294a4d8_Experiment _2 Projectile motion.pdf",
+      "PackagePath": "staticwebassets\\Books\\96\\26eb4f92-2a37-40c9-9b71-c3648294a4d8_Experiment _2 Projectile motion.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\97\\8140b832-bf89-4003-bdbd-f217b1a2e1d3_Chapter 03 Data and Signals.pdf",
+      "PackagePath": "staticwebassets\\Books\\97\\8140b832-bf89-4003-bdbd-f217b1a2e1d3_Chapter 03 Data and Signals.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Books\\98\\71bba2b1-3d77-4862-919f-e96a9d7c39d3_Performance Evaluation.pdf",
+      "PackagePath": "staticwebassets\\Books\\98\\71bba2b1-3d77-4862-919f-e96a9d7c39d3_Performance Evaluation.pdf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\100\\bdf40a55-7aa0-4c86-9921-d5f8fb0943ba_imag.jpeg",
+      "PackagePath": "staticwebassets\\Images\\100\\bdf40a55-7aa0-4c86-9921-d5f8fb0943ba_imag.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\101\\e015907f-4893-4886-a6a2-395c4179a222_comm.jpeg",
+      "PackagePath": "staticwebassets\\Images\\101\\e015907f-4893-4886-a6a2-395c4179a222_comm.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\102\\5beb95b9-4df3-402c-bd27-4ba3ce556fdc_cpp.jpeg",
+      "PackagePath": "staticwebassets\\Images\\102\\5beb95b9-4df3-402c-bd27-4ba3ce556fdc_cpp.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\107\\0ff96a22-3a4e-43fb-800a-9e3761302feb_healthy.jpg",
+      "PackagePath": "staticwebassets\\Images\\107\\0ff96a22-3a4e-43fb-800a-9e3761302feb_healthy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\108\\6e2235bd-578e-4a67-8ed7-a7e401ffd6a3_history.jpeg",
+      "PackagePath": "staticwebassets\\Images\\108\\6e2235bd-578e-4a67-8ed7-a7e401ffd6a3_history.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\109\\590e8017-e59a-4869-8cc4-4aa09df6007e_adventure.jpg",
+      "PackagePath": "staticwebassets\\Images\\109\\590e8017-e59a-4869-8cc4-4aa09df6007e_adventure.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\110\\0872aec5-93fa-4873-88e7-0f212fb15b94_animal.jpeg",
+      "PackagePath": "staticwebassets\\Images\\110\\0872aec5-93fa-4873-88e7-0f212fb15b94_animal.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\111\\93886953-689d-49a1-8ace-81ae78935717_digital.jpeg",
+      "PackagePath": "staticwebassets\\Images\\111\\93886953-689d-49a1-8ace-81ae78935717_digital.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\112\\16a94cc8-12cc-4802-8321-d8a38ac26d20_cpp.jpeg",
+      "PackagePath": "staticwebassets\\Images\\112\\16a94cc8-12cc-4802-8321-d8a38ac26d20_cpp.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\114\\ed0b2031-7690-4c53-a346-a19b9d861d8a_space.png",
+      "PackagePath": "staticwebassets\\Images\\114\\ed0b2031-7690-4c53-a346-a19b9d861d8a_space.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\115\\10087e12-4bf0-4a5c-8a86-ce80b9a0ddb1_physics.jpeg",
+      "PackagePath": "staticwebassets\\Images\\115\\10087e12-4bf0-4a5c-8a86-ce80b9a0ddb1_physics.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\116\\abd0ddb7-1c99-4463-a26f-ea6df99670bc_data.jpeg",
+      "PackagePath": "staticwebassets\\Images\\116\\abd0ddb7-1c99-4463-a26f-ea6df99670bc_data.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\117\\c731e7a3-67f5-4a18-b1ef-23e48e733502_kingdom.jpeg",
+      "PackagePath": "staticwebassets\\Images\\117\\c731e7a3-67f5-4a18-b1ef-23e48e733502_kingdom.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\118\\0e6102bb-113f-4e3b-8818-7ddc7a049da1_diet2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\118\\0e6102bb-113f-4e3b-8818-7ddc7a049da1_diet2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\130\\bc8f8c0d-1b91-4fe5-8d69-7f7165af122a_comm.png",
+      "PackagePath": "staticwebassets\\Images\\130\\bc8f8c0d-1b91-4fe5-8d69-7f7165af122a_comm.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\142\\6fd441ea-79bf-4fa6-9739-ddb8a019b87b_DB.jpeg",
+      "PackagePath": "staticwebassets\\Images\\142\\6fd441ea-79bf-4fa6-9739-ddb8a019b87b_DB.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\143\\73d11395-6179-4410-bfb4-7148c5fd7f6a_digital.jpg",
+      "PackagePath": "staticwebassets\\Images\\143\\73d11395-6179-4410-bfb4-7148c5fd7f6a_digital.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\144\\8e5ec3ed-d3aa-4304-b2d5-890c0cbefcfe_data.jpeg",
+      "PackagePath": "staticwebassets\\Images\\144\\8e5ec3ed-d3aa-4304-b2d5-890c0cbefcfe_data.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\145\\b9127417-0269-4536-8398-941521d7c5e4_archi.jpeg",
+      "PackagePath": "staticwebassets\\Images\\145\\b9127417-0269-4536-8398-941521d7c5e4_archi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\146\\ab2d0bfa-c392-445e-8315-9a70902735ce_keto.jpeg",
+      "PackagePath": "staticwebassets\\Images\\146\\ab2d0bfa-c392-445e-8315-9a70902735ce_keto.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\147\\8d8b0035-4925-40bd-81ea-1c1b58fb6b6f_history.jpeg",
+      "PackagePath": "staticwebassets\\Images\\147\\8d8b0035-4925-40bd-81ea-1c1b58fb6b6f_history.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\148\\810c247a-0f64-4cb3-b3e5-44378cbc18fa_kingdom.jpeg",
+      "PackagePath": "staticwebassets\\Images\\148\\810c247a-0f64-4cb3-b3e5-44378cbc18fa_kingdom.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\149\\de2c74ac-4340-47d7-8ad3-59ce52f79321_animal.jpeg",
+      "PackagePath": "staticwebassets\\Images\\149\\de2c74ac-4340-47d7-8ad3-59ce52f79321_animal.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\150\\ba344913-f2e4-4bbd-877c-9d98034760b9_story.jpg",
+      "PackagePath": "staticwebassets\\Images\\150\\ba344913-f2e4-4bbd-877c-9d98034760b9_story.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\151\\8694d629-b303-4657-94a3-abd80d1398fd_star.jpeg",
+      "PackagePath": "staticwebassets\\Images\\151\\8694d629-b303-4657-94a3-abd80d1398fd_star.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\152\\74027fe9-b068-435a-9b93-abc2272903e1_time.jpeg",
+      "PackagePath": "staticwebassets\\Images\\152\\74027fe9-b068-435a-9b93-abc2272903e1_time.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\87\\92cadebe-c030-4a29-b8c4-c658f0144768_kingdom.jpeg",
+      "PackagePath": "staticwebassets\\Images\\87\\92cadebe-c030-4a29-b8c4-c658f0144768_kingdom.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\88\\3c5ae161-6e82-4c4e-9751-6891b51e096e_star.jpeg",
+      "PackagePath": "staticwebassets\\Images\\88\\3c5ae161-6e82-4c4e-9751-6891b51e096e_star.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\89\\e37f386a-1091-4e66-8f74-170a4db1f16f_healthy.png",
+      "PackagePath": "staticwebassets\\Images\\89\\e37f386a-1091-4e66-8f74-170a4db1f16f_healthy.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\90\\2eeaf6aa-3f91-45e9-b0be-30dc4254ab72_dream.jpeg",
+      "PackagePath": "staticwebassets\\Images\\90\\2eeaf6aa-3f91-45e9-b0be-30dc4254ab72_dream.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\91\\0873e288-31c3-4cd8-8a49-2d64186884d3_space.jpeg",
+      "PackagePath": "staticwebassets\\Images\\91\\0873e288-31c3-4cd8-8a49-2d64186884d3_space.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\92\\9c8ea65e-758c-4992-a7d1-1d4cda7e2b60_adventure.jpg",
+      "PackagePath": "staticwebassets\\Images\\92\\9c8ea65e-758c-4992-a7d1-1d4cda7e2b60_adventure.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\93\\8060a1c0-dd38-47af-8334-491fdc856fe7_data.jpeg",
+      "PackagePath": "staticwebassets\\Images\\93\\8060a1c0-dd38-47af-8334-491fdc856fe7_data.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\94\\b3cc08c7-b7cf-438f-97b2-ea9187f10c9e_digital.jpeg",
+      "PackagePath": "staticwebassets\\Images\\94\\b3cc08c7-b7cf-438f-97b2-ea9187f10c9e_digital.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\95\\07d4b89c-99cf-4d51-9fb3-2591a7e9371b_history.jpeg",
+      "PackagePath": "staticwebassets\\Images\\95\\07d4b89c-99cf-4d51-9fb3-2591a7e9371b_history.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\96\\582b678c-dc73-45a2-b02f-8edbff90e3d7_physics.jpeg",
+      "PackagePath": "staticwebassets\\Images\\96\\582b678c-dc73-45a2-b02f-8edbff90e3d7_physics.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\97\\8e00ed41-5334-4acc-a2bd-8653d957b920_animal.jpeg",
+      "PackagePath": "staticwebassets\\Images\\97\\8e00ed41-5334-4acc-a2bd-8653d957b920_animal.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\98\\5a0d47b0-171a-42d9-9e6e-b7a2279fe5cb_archi.jpeg",
+      "PackagePath": "staticwebassets\\Images\\98\\5a0d47b0-171a-42d9-9e6e-b7a2279fe5cb_archi.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\99\\41fcc20a-0262-4cff-b88c-d80c717c50d5_legend.jpg",
+      "PackagePath": "staticwebassets\\Images\\99\\41fcc20a-0262-4cff-b88c-d80c717c50d5_legend.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\TechProcessSolutions-logo.png",
+      "PackagePath": "staticwebassets\\Images\\TechProcessSolutions-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\image2.jpg",
+      "PackagePath": "staticwebassets\\Images\\image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\library_background.jpg",
+      "PackagePath": "staticwebassets\\Images\\library_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\library_image.jpg",
+      "PackagePath": "staticwebassets\\Images\\library_image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\Images\\register.jpg",
+      "PackagePath": "staticwebassets\\Images\\register.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\avatars\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\avatars\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\avatars\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\avatars\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\avatars\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\avatars\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\avatars\\7.png",
+      "PackagePath": "staticwebassets\\assets\\img\\avatars\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\backgrounds\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\backgrounds\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\19.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\20.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\elements\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\elements\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\brands\\aws.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\aws.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\misc\\aviato.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\misc\\aviato.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\misc\\bitbank.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\misc\\bitbank.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\misc\\triangle-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\misc\\triangle-light.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\misc\\zipcar.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\misc\\zipcar.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\payments\\american-bank.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\payments\\american-bank.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\payments\\citi.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\payments\\citi.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\payments\\digital-ocean.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\payments\\digital-ocean.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\payments\\gumroad.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\payments\\gumroad.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\payments\\mastercard-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\payments\\mastercard-2.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\icons\\payments\\stripes.png",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\payments\\stripes.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\illustrations\\404.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\illustrations\\auth-basic-mask-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\auth-basic-mask-light.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\illustrations\\misc-mask-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\misc-mask-light.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\illustrations\\misc-under-maintenance.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\misc-under-maintenance.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\illustrations\\tree-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\tree-3.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\illustrations\\tree.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\tree.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\illustrations\\trophy.png",
+      "PackagePath": "staticwebassets\\assets\\img\\illustrations\\trophy.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\layouts\\layout-container-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-container-light.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\layouts\\layout-fluid-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-fluid-light.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\layouts\\layout-without-menu-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-menu-light.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\img\\layouts\\layout-without-navbar-light.png",
+      "PackagePath": "staticwebassets\\assets\\img\\layouts\\layout-without-navbar-light.png"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\assets\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\js\\tables-datatables-basic.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tables-datatables-basic.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\fonts\\flag-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\flag-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\fonts\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\fonts\\materialdesignicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\materialdesignicons.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\materialdesignicons\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\fonts\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\fonts\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\js\\template-customizer.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\js\\template-customizer.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\datatables-bs5\\datatables-bootstrap5.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\datatables-bs5\\datatables-bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\datatables-bs5\\datatables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\datatables-bs5\\datatables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\datatables-bs5\\tables-datatables-basic.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\datatables-bs5\\tables-datatables-basic.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\datatables-buttons-bs5\\buttons.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\datatables-buttons-bs5\\buttons.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\datatables-checkboxes-jquery\\datatables.checkboxes.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\datatables-checkboxes-jquery\\datatables.checkboxes.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\datatables-responsive-bs5\\responsive.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\datatables-responsive-bs5\\responsive.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\datatables-rowgroup-bs5\\rowgroup.bootstrap5.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\datatables-rowgroup-bs5\\rowgroup.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\flatpickr\\flatpickr.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\flatpickr\\flatpickr.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\flatpickr\\flatpickr.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\flatpickr\\flatpickr.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\form-validation\\auto-focus.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\form-validation\\auto-focus.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\form-validation\\bootstrap5.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\form-validation\\bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\form-validation\\form-validation.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\form-validation\\form-validation.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\form-validation\\popular.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\form-validation\\popular.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\hammer\\hammer.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\hammer\\hammer.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\i18n\\i18n.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\i18n\\i18n.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\moment\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\node-waves\\node-waves.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\node-waves\\node-waves.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\node-waves\\node-waves.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\node-waves\\node-waves.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\typeahead-js\\typeahead.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\typeahead-js\\typeahead.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\assets\\vendor\\libs\\typeahead-js\\typeahead.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\libs\\typeahead-js\\typeahead.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\js\\dataTables.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\js\\jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\olabu\\Desktop\\PresentationLayer\\PresentationLayer\\wwwroot\\library_background.jpg",
+      "PackagePath": "staticwebassets\\library_background.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PresentationLayer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PresentationLayer.props",
+      "PackagePath": "build\\PresentationLayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PresentationLayer.props",
+      "PackagePath": "buildMultiTargeting\\PresentationLayer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PresentationLayer.props",
+      "PackagePath": "buildTransitive\\PresentationLayer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,49 @@
+﻿@using BuisnessLogicLayer.ViewModels
+@model EditShelfViewModel
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<h2 class="text-primary m-3">Edit Shelf</h2>
+
+<div class="col-4">
+    <form method="post" asp-action="EditShelf">
+        <input type="hidden" value="Id" id="Id" />
+        <div class="form-group">
+            <label asp-for="ShelfName" class="form-label col-form-label-md">Shelf Name</label>
+            <input asp-for="ShelfName" class="form-control">
+        </div>
+        <br />
+
+
+        <button type="submit" class="btn btn-primary data-submit">Save Changes</button>
+        <a class="btn btn-outline-secondary" asp-action="Index">Cancel</a>
+
+    </form>
+</div>
+<div class="mt-2">
+    @if (!string.IsNullOrEmpty(ViewBag.Exist))
+    {
+
+        <div id="alertContainer" class="alert alert-danger alert-dismissible fade show" role="alert" style="display: none;">
+            <span id="alertMessage"></span>
+            <button type="button" class="btn-close" data-bs-dismiss="alert">
+                <span aria-hidden="true"></span>
+            </button>
+        </div>
+        @section Scripts {
+        <script>
+            // Check if alert message exists
+            var alertMessage = ' @ViewBag.Exist';
+            if (alertMessage) {
+                // Set alert message text
+                document.getElementById('alertMessage').innerText = alertMessage;
+                // Show alert
+                document.getElementById('alertContainer').style.display = 'block';
+            }
+        </script>
+        }
+    }
+</div>
+

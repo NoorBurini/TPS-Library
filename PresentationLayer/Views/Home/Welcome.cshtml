@@ -1,0 +1,107 @@
+﻿@using DataAccessLayer.Data
+@using DataAccessLayer.Entities
+@using Microsoft.AspNetCore.Identity
+@inject UserManager<AppUser> UserManager
+@model IEnumerable<Book>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var showCategory = ViewBag.showCategory;
+    var firstBook = Model.FirstOrDefault();
+    ViewData["Title"] = "Home";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TPS Library</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+   
+</head>
+
+<body>
+    <h1 class="text-primary text-center m-3">Welcome to TPS Library</h1>
+    <p class="text-primary text-center fs-3">Discover, Read, and Explore!</p>
+
+    <div class="card text-white bg-primary opacity-75 col-4 mt-5 mb-1" style=" width:300px; height:70px;">
+        <div class="card-body">
+            <p class="card-title text-white fs-5">Top 5 rated books</p>
+        </div>
+    </div>
+
+    <div class="album pt-3 pb-5 bg-body-tertiary">
+        <div class="container">
+            
+            <div class ="row flex-row flex-nowrap g-3 overflow-auto" id="cardContainer" style="white-space: nowrap;">
+                @* different # of columns will be displayed based on the screen size *@
+                @foreach (var b in Model)
+                {
+                    //the code to show the books starts here after all errors and alert handling
+                    <div class="col-4" style="display: inline-block; float: none;">
+                        <div class="card shadow-sm">
+                            <div class="border border-dark bd-placeholder-img card-img-top bg-black bg-opacity-10" style="width:100%; height:400px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+                                @{
+                                    var imageFileName = ViewBag.ImageFileNamesDictionary.ContainsKey(b.Id)
+                                    ? ViewBag.ImageFileNamesDictionary[b.Id]
+                                    : null;
+                                }
+                                @if (!string.IsNullOrEmpty(imageFileName))
+                                {
+                                    <img class="bd-placeholder-img card-img-top" src="~/images/@b.Id/@imageFileName" alt="Book Image" style="width:100%; height:100%; object-fit: cover;" />
+                                }
+                                else
+                                {
+                                    <p class="m-5">No image found for this book</p>
+                                }
+                            </div>
+
+                            <div class="card-body">
+
+                                <p class="fs-4">@b.BookName</p>
+                                <p class="fs-6">
+                                    @foreach (var x in showCategory)
+                                    {
+                                        if (b.CategoryId == x.CategoryId)
+                                        {
+                                            @x.CategoryName
+                                            break;
+                                        }
+                                    }
+                                </p>
+                                <small class="text-primary" style="float:right">@b.RatingValue stars</small>
+                                    <br />
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+    
+   <div class="container text-center bg-body p-3">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Discover Shelves</h2>
+                <p>Check out our books organized by shelves</p>
+                <p><a class="btn btn-primary" asp-controller="Book" asp-action="ShowBooks" asp-route-id="@firstBook.ShelfId" role="button">View Shelves &raquo;</a></p>
+            </div>
+            <div class="col-md-6">
+                <h2>Show Categories</h2>
+                <p>Explore books by your favorite category</p>
+                <p><a class="btn btn-primary" asp-controller="Book" asp-action="ShowBooksInCategory" asp-route-id="@firstBook.CategoryId" role="button">View Categories &raquo;</a></p>
+            </div>
+           
+        </div>
+    </div> 
+
+    
+
+</body>
+
+</html>
